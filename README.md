@@ -1,2 +1,2 @@
-# Nunca será apenas algoritmos
+# Nunca serão apenas algoritmos
 
