@@ -1,0 +1,5 @@
+frase = str(input('Digite uma frase: '))
+print('Com letras maiusculas: {}'.format(frase.upper()))
+print('Com letras minusculas: {}'.format(frase.lower()))
+print('Sua frase tem {} caracteres sem espaços'.format(len(frase.replace(' ',''))))
+print('A primeira frase sem foi {}'.format(frase.split()[0]))
